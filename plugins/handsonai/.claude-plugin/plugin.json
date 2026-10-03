@@ -1,0 +1,19 @@
+{
+  "name": "handsonai",
+  "description": "Everything you need to design, build, and document AI workflows. The AI Workflow Framework as executable skills, plus your business knowledge graph, an AI registry, and a feature-spec toolkit.",
+  "version": "8.1.1",
+  "author": {
+    "name": "James Gray"
+  },
+  "homepage": "https://handsonai.info/use-the-playbook/build/handsonai/",
+  "license": "MIT",
+  "keywords": [
+    "ai-workflow",
+    "framework",
+    "workflows",
+    "registry",
+    "knowledge-graph",
+    "feature-prd",
+    "agentic-coding"
+  ]
+}

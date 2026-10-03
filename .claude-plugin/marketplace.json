@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "iae-claude-coding",
+  "description": "Skills du cours IA : Claude Coding M1/M2 (IAE) — basés sur le plugin open source Hands-on AI (licence MIT).",
+  "owner": {
+    "name": "Meriem Aguieb"
+  },
+  "plugins": [
+    {
+      "name": "handsonai",
+      "source": "./plugins/handsonai",
+      "description": "AI Workflow Framework : analyze, deconstruct, design, build, test, run, improve — utilisés tout au long du cours.",
+      "version": "8.1.1"
+    }
+  ]
+}
